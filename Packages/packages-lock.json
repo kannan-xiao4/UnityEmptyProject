@@ -54,9 +54,9 @@
       "url": "https://packages.unity.com"
     },
     "com.unity.renderstreaming": {
-      "version": "file:/Users/takashikannan/Documents/UnityRenderStreaming/com.unity.renderstreaming",
+      "version": "file:com.unity.renderstreaming",
       "depth": 0,
-      "source": "local",
+      "source": "embedded",
       "dependencies": {
         "com.unity.webrtc": "2.2.1-preview",
         "com.unity.inputsystem": "1.0.0"
